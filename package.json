@@ -1,6 +1,6 @@
 {
-  "name": "egg-view-twig",
-  "version": "0.0.1",
+  "name": "egg-view-twig-x",
+  "version": "0.0.2",
   "description": "egg view plugin for twig",
   "eggPlugin": {
     "name": "twig",
